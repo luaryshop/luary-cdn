@@ -1,0 +1,2 @@
+Pasta de imagens de configuracoes (logo, favicon, compartilhamento).
+Imagens publicadas pelo painel (cdn.html) aparecem aqui. Pode apagar este arquivo depois da primeira imagem.
